@@ -7,8 +7,8 @@ The table will automatically populate with data from the plotted cycles, this ca
 
 Contact me at lgordon@ccny.cuny.edu with any questions or feedback.
 
-%%%%%%%%%%%%%%%
+%%%%%%%%%
 
 % VERSION 1.0 %
 
-%%%%%%%%%%%%%%%
+%%%%%%%%%
